@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://10.110.1.110\:13306/sx_demo?useUnicode=true&characterEncoding=utf-8
+    username: root
+    password: root
